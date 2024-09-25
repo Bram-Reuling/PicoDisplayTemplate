@@ -2,6 +2,13 @@
 
 Template for setting up projects for the Raspberry Pi Pico W and the Pico Display Pack by Pimoroni.
 
+## Hardware
+Raspberry Pi Pico WH (W = Wifi & H = Headers)-> https://www.raspberrypi.com/products/raspberry-pi-pico/
+
+I would recommend WH version since I made this template with the same setup. But you can also use others, no guarantees if it works.
+
+Pico Display Pack -> https://shop.pimoroni.com/products/pico-display-pack
+
 ## Installation
 
 More info -> https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
