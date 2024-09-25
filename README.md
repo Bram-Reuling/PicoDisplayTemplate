@@ -36,7 +36,7 @@ You should see `Hello World!` on the screen.
 
 ## Contributing
 
-Contributions are welcome to this template repository.
+Since this is a template, you can just use it and improve it to your own liking. This is just a base to quickly setup projects with the hardware described above.
 
 ## License
 
